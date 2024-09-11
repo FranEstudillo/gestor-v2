@@ -1,0 +1,1 @@
+En esta carpeta van todos los archivos estáticos, HTML, CSS, IMG, JS
